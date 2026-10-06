@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/SeatGuard.Tests/SeatGuard.Tests.csproj" />
+  </Folder>
+  <Project Path="SeatGuard.Api/SeatGuard.Api.csproj" />
+  <Project Path="web/web.esproj" />
+</Solution>
